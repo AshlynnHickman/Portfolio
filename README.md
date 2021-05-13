@@ -1,1 +1,1 @@
-portfolio
+Hi! I'm sorry if it's inconvient to download the github link. I'm currently trying to fix the github pages link. The email widget doesn't work right now but I'm also working on that. 
